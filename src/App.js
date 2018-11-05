@@ -20,7 +20,7 @@ class App extends Component {
         </p>
         <ExampleComponent />
         <ExampleComponent />
-       <TestComponent />
+        <TestComponent />
 
       </div>
     );
